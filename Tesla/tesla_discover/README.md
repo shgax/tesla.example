@@ -1,6 +1,6 @@
-# tesla_discover
+# Tesla Discover
 
-A new Flutter project.
+A new Flutter project example.
 
 ## Getting Started
 
